@@ -9,7 +9,7 @@ A fully-featured eCommerce application built with modern technologies featuring 
 
 ## 🚀 Live Demo
 
-[here is the deployed link]](https://ecommerce-atmj.vercel.app/)
+[here is the deployed link](https://ecommerce-atmj.vercel.app/)
 
 ## ✨ Features
 
